@@ -1,7 +1,7 @@
 this is a text
 2333
 <<<<<<< HEAD
-creating a new branch is quick
+creating a new branch & quick
 =======
 creating a new branch IS quick
 >>>>>>> feature1
