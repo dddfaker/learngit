@@ -3,3 +3,4 @@ this is a text
 <<<<<<< HEAD
 creating a new branch & quick
 hello
+world
