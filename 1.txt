@@ -2,3 +2,4 @@ this is a text
 2333
 <<<<<<< HEAD
 creating a new branch & quick
+hello
